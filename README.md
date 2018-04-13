@@ -1,6 +1,8 @@
-# pos
+# myPos
 
-> A Vue.js project
+>简易快餐收银台界面，使用到的前端技术栈为：Vue+Webpack+Element+Axios+vueRouter
+
+>因为没有服务器，所以axios POST数据到后台没有在此处实现，可以通过Node.js搭建模拟服务器看到效果
 
 ## Build Setup
 
